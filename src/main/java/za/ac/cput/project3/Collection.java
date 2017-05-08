@@ -3,7 +3,7 @@ package za.ac.cput.project3;
 import java.util.*;
 
 /**
- * Created by student on 2016/03/13.
+ * Created by tmoshasha on 04/27/2017.
  */
 public class Collection {
 

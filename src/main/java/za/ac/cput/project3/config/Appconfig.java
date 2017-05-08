@@ -1,12 +1,12 @@
 package za.ac.cput.project3.config;
 
+import org.apache.felix.ipojo.configuration.Configuration;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 import za.ac.cput.project3.CollectionImpl;
 import za.ac.cput.project3.CollectionInterface;
 
 /**
- * Created by student on 2016/03/13.
+ * Created by tmoshasha on 04/27/2017.
  */
 @Configuration
 public class Appconfig {

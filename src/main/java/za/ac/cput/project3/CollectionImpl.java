@@ -3,11 +3,11 @@ package za.ac.cput.project3;
 import java.util.*;
 
 /**
- * Created by student on 2016/03/13.
+ * Created by tmoshasha on 04/27/2017
  */
-public class CollectionImpl implements CollectionInterface {
+public class CollectionImpl implements za.ac.cput.project3.CollectionInterface {
 
-    @Override
+
     public List<String> names() {
 
         List names = new ArrayList();
@@ -18,7 +18,7 @@ public class CollectionImpl implements CollectionInterface {
         return names;
     }
 
-    @Override
+
     public Set<String> clours() {
 
         Set colours = new HashSet();
@@ -29,7 +29,7 @@ public class CollectionImpl implements CollectionInterface {
         return colours;
     }
 
-    @Override
+
     public Map<String, String> brands() {
 
         Map brands = new HashMap();
