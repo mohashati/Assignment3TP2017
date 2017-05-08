@@ -1,11 +1,11 @@
-package za.ac.cput.project3;
+package za.ac.cput.project3.config;
 
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
 /**
- * Created by student on 2016/03/13.
+ * Created by tmoshasha 04/27/2017..
  */
 public interface CollectionInterface {
 

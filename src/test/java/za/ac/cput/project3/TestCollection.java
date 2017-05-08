@@ -6,6 +6,7 @@ import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import za.ac.cput.project3.config.Appconfig;
+import za.ac.cput.project3.config.CollectionInterface;
 
 /**
  * Created by student on 2016/03/13.

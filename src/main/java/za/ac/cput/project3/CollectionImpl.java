@@ -1,11 +1,13 @@
 package za.ac.cput.project3;
 
+import za.ac.cput.project3.config.CollectionInterface;
+
 import java.util.*;
 
 /**
  * Created by tmoshasha on 04/27/2017
  */
-public class CollectionImpl implements za.ac.cput.project3.CollectionInterface {
+public class CollectionImpl implements CollectionInterface {
 
 
     public List<String> names() {
